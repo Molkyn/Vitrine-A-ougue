@@ -2,7 +2,7 @@
 
 ## Problemas de descarte de papel e Baixa eficiencia de venda, Solução com praticidade e Eficiencia no Markerting
 ## Finalizar o Projeto antes do dia 17/12
-## Mário Sérgio, Maciel Nascimento, Alessandro, Caio
+## Mário Sérgio, Maciel Nascimento, Alessandro, Caio César
 
 ## Cronograma:
 ## Semana 1: Planejamento e Design
