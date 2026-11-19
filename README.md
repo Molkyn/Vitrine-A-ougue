@@ -1,8 +1,8 @@
 # Vitrine Digital para Açougues
 
-## Problemas de descarte de papel e Baixa eficiencia de venda, Solução com praticidade e Eficiencia no Markerting
+## Problemas de descarte de papel e baixa eficiencia de venda, solução com praticidade e eficiencia no markerting
 ## Finalizar o Projeto antes do dia 17/12
-## Mário Sérgio, Maciel Nascimento, Alessandro, Caio César
+## Mário Sérgio, Maciel Nascimento, Alessandro, Caio Guimarães
 
 ## Cronograma:
 ## Antes de montar o cronograma, cada entrega foi dividida em tarefas menores e classificada por tamanho estimado: Pequeno (P) — poucas horas; Médio (M) — um dia de trabalho; Grande (G) — vários dias, sinal de que a tarefa deveria ser quebrada em partes menores.
