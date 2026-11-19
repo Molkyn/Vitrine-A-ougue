@@ -1,6 +1,6 @@
 # Vitrine Digital para Açougues
 
-## Problemas de descarte de papel e baixa eficiencia de venda, solução com praticidade e eficiencia no markerting
+## Problemas de descarte de papel e baixa eficiencia de venda, solução com praticidade e eficiência no markerting
 ## Finalizar o Projeto antes do dia 17/12
 ## Mário Sérgio, Maciel Nascimento, Alessandro, Caio Guimarães
 
